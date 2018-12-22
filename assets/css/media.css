@@ -1,0 +1,65 @@
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+    .SubmitButton{
+        top:68%;
+        font-size: 14px;
+        width:100px;
+        left: 70%;
+    }
+    .mob-about{
+        margin-top: 30px;
+    }
+    .navbar-toggle{
+        position: absolute !important;
+        right:4px;
+        top:6px;
+    }
+    .navbar {
+        height:70px;
+    }
+    .img-change{
+        background: url("/assets/images/sparsh\ 480-01.png");
+        width: 330px;
+        height: 200px;
+    }
+    .sm-img{
+        position: absolute;
+        left: 15px;
+        top: 5px;
+    }
+    .SubmitButton{
+        display: none;
+    }
+    .SubmitButton2{
+        position: fixed;
+        top: 74%;
+        left: 70%;
+        right: 10px;
+        padding:7px;
+        text-align: center;
+        border-radius: 8px;
+        font-size:15px;
+        background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    }
+    .mob-features {
+        padding-top: 0px;
+        margin-top: 100px !important;
+    }
+    .extra-nav {
+        display: none;
+    }
+    .mid-div{
+        margin-left: 0 !important;
+    }
+    .social-div{
+        margin-left: 0% !important;
+        /* right: 20px; */
+        padding-left: 0;
+        padding-bottom: 15px; 
+    }
+    .social-div li{
+        margin-left: 0% !important;
+    }
+  }
