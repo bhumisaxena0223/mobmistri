@@ -50,16 +50,26 @@
     .extra-nav {
         display: none;
     }
+    .extra-nav1 {
+        display: inherit;
+    }
     .mid-div{
         margin-left: 0 !important;
     }
     .social-div{
-        margin-left: 0% !important;
+        margin-left: 0 !important;
         /* right: 20px; */
         padding-left: 0;
         padding-bottom: 15px; 
     }
     .social-div li{
-        margin-left: 0% !important;
+        margin-left: 0 !important;
+    }
+    /* faq's page */
+    .faq-span
+    {
+        padding: 0;
+        font-size: 16px;
+        font-weight: 500;
     }
   }
