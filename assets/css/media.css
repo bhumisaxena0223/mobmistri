@@ -14,7 +14,7 @@
     .navbar-toggle{
         position: absolute !important;
         right:4px;
-        top:6px;
+        top:20px;
     }
     .navbar {
         height:70px;
@@ -28,6 +28,7 @@
         position: absolute;
         left: 15px;
         top: 5px;
+        display: none;
     }
     .SubmitButton{
         display: none;
@@ -35,23 +36,23 @@
     .SubmitButton2{
         position: fixed;
         top: 74%;
+        display: block;
         left: 70%;
         right: 10px;
         padding:7px;
+        color: #000 !important;
+        font-size: 16px !important;
         text-align: center;
         border-radius: 8px;
         font-size:15px;
         background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
     }
+    .mob-content{
+        margin-top: 60px;
+    }
     .mob-features {
         padding-top: 0px;
         margin-top: 100px !important;
-    }
-    .extra-nav {
-        display: none;
-    }
-    .extra-nav1 {
-        display: inherit;
     }
     .mid-div{
         margin-left: 0 !important;
@@ -71,5 +72,8 @@
         padding: 0;
         font-size: 16px;
         font-weight: 500;
+    }
+    .navbar-right{
+        margin: 0px !important;
     }
   }
