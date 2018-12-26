@@ -35,7 +35,7 @@
     }
     .SubmitButton2{
         position: fixed;
-        top: 74%;
+        top: 67%;
         display: block;
         left: 70%;
         right: 10px;
@@ -58,8 +58,6 @@
         margin-left: 0 !important;
     }
     .social-div{
-        margin-left: 0 !important;
-        /* right: 20px; */
         padding-left: 0;
         padding-bottom: 15px; 
     }
@@ -72,8 +70,5 @@
         padding: 0;
         font-size: 16px;
         font-weight: 500;
-    }
-    .navbar-right{
-        margin: 0px !important;
     }
   }
