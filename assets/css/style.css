@@ -13,9 +13,6 @@ body{
     background: none;
     padding: 18px;
 }
-.nav>li>a{
-    display: inline;
-}
 .icon-bar{
     background-color: #8dbef9;
     margin-left: 290px;
